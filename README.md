@@ -44,12 +44,12 @@ neste exemplo estou utilizando o banco de dados `postgresql` mas você pode opta
 
 Para gerar uma estrutura no banco de dados apartir das migrations do projeto execute:
 ```bash
-npx prisma push
+npx prisma db push
 ```
 
 Caso você queira realizar o processo inverso (gerar migrations apartir da estrutura do banco de dados) execute:
 ```bash
-npx prisma pull
+npx prisma db pull
 ```
 
 ## Estrutura de Pastas
