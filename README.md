@@ -1,15 +1,13 @@
-<p align="center">
+<p>
 <img src="https://website-v9.vercel.app/logo-dark.svg" width="200">
 </p>
-<h1 align="center">hello-prisma</h1>
+<h1>hello-prisma</h1>
 
 ## Apresentação
 
 Esta é a meu primeiro projeto utilizando a biblioteca [prisma](https://www.prisma.io/). Baseado no [exemplo de implementação](https://www.prisma.io/docs/getting-started/quickstart) da própria documentação.
 
 ## Objetivo do Prisma
-
-![prism approach](https://www.prisma.io/home-page/prisma-stack-fit.svg)
 
 Ele tem o intúito de melhorar a experiência do desenvolvedor, fornecendo migrações automatizadas, segurança e tipo de preenchimento automático aos seus modelos de dados.
 
